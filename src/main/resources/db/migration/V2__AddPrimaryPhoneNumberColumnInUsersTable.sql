@@ -1,0 +1,1 @@
+alter table users add primary_phone_number varchar(10) null;
